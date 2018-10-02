@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE placa [
+  <!ELEMENT placa (placa)*>
+  <!ELEMENT placabase (microprocesador | memoria | modelo | fabricante)*>
+  <!ELEMENT microprocesador (#PCDATA)>
+  <!ELEMENT memoria (#PCDATA)>
+  <!ELEMENT modelo (#PCDATA)>
+  <!ELEMENT fabricante (asus | Intel)>
+  <!ELEMENT Asus EMPTY>
+  <!ELEMENT intel EMPTY>
+]>
+  <placas>
+  	<placabase>
+  		<microprocesador>Radeon 53672EU</microprocesador>
+  		<memoria>64GB</memoria>
+  		<modelo>AMD 3237758734TXR</modelo>
+  		<fabricante><Intel/></fabricante>
+  	</placabase>
+  </placas>
+
+
+  

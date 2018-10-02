@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+	<materiales>
+		<tuboPvc precio="20$"/>
+		<herramientasMetalicas precio="50€"/>
+		<cintaFontanero precio="4€"/>
+	</materiales>
+	<servicios>
+		<arregloTuberia precio="70€" tiempo="30 minutos"/>		
+		<reparacionFregadero precio="200€" tiempo="2 horas"/>	
+		<mantenimientoDeCaldera precio="100€" tiempo="15 minutos"/>
+	</servicios>
+</factura>

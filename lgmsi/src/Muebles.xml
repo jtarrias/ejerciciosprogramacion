@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Muebles>	
+	<habitacion1>
+		<cama color= "amarillo"  tamaño= "1,05"	/>
+		<mesitaDeNoche color= "azul" tamaño= "pequeño" />
+		<escritorio color= "marrón"	tamaño= "grande" />
+	</habitacion1>
+	<habitacion2>	
+		<cama color= "camel"	tamaño= "1,50" />	
+		<mesitadenoche color= "marron oscuro"	tamaño= "pequeño" />
+		<estantreria color= "granate"	tamaño= "mediana" />
+	</habitacion2>
+</Muebles>

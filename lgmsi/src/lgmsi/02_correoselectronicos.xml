@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE emails SYSTEM	"02_correoselectronicos.dtd">
+<emails>
+	<email>
+		<para>perico@gmail.com</para>
+		<cco>lucas@gjhjs.com</cco>
+		<asunto></asunto>
+		<cuerpo></cuerpo>
+		<adjunto>
+			<nombre></nombre>
+			<mine-type>image/jpeg</mine-type>
+			<lomgitud></lomgitud>
+	    </adjunto>
+	</email>
+</emails>
